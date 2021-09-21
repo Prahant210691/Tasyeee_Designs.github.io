@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57" height="32" viewBox="0 0 57 32">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_1">
+      <rect width="57" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_1" data-name="iPhone X/XS – 1" clip-path="url(#clip-iPhone_X_XS_1)">
+    <rect width="57" height="32" fill="#fff"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(1 0.991)">
+      <g id="Group_201" data-name="Group 201" transform="translate(0)">
+        <ellipse id="Ellipse_16" data-name="Ellipse 16" cx="8.644" cy="8.644" rx="8.644" ry="8.644" transform="translate(5.041 5.452)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_19" data-name="Line 19" y2="4.256" transform="translate(13.299 25.534)" fill="none" stroke="#e2202b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_20" data-name="Line 20" y2="3.192" transform="translate(13.299)" fill="none" stroke="#e2202b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_21" data-name="Line 21" x2="3.192" transform="translate(24.47 14.363)" fill="none" stroke="#e2202b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_22" data-name="Line 22" x2="2.128" transform="translate(0 14.363)" fill="none" stroke="#e2202b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_23" data-name="Line 23" x2="2.529" y2="2.529" transform="translate(21.502 22.577)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_24" data-name="Line 24" x2="1.864" y2="1.864" transform="translate(3.341 4.418)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_25" data-name="Line 25" y1="1.393" x2="1.394" transform="translate(21.696 4.418)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_26" data-name="Line 26" y1="2.057" x2="2.059" transform="translate(3.341 22.107)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+      <path id="Path_181" data-name="Path 181" d="M972.515,8790.2a11.636,11.636,0,0,1,2.888-7.68,11.489,11.489,0,0,0-1.588-.12,11.7,11.7,0,1,0,8.813,19.382A11.7,11.7,0,0,1,972.515,8790.2Z" transform="translate(-928.019 -8779.527)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

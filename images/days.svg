@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_1" data-name="iPhone X/XS – 1" clip-path="url(#clip-iPhone_X_XS_1)">
+    <rect width="32" height="32" fill="#fff"/>
+    <g id="Group_444" data-name="Group 444" transform="translate(-1079.89 -4305.667)">
+      <path id="Path_431" data-name="Path 431" d="M1092.053,4312.25a5.582,5.582,0,1,1-5.581-5.582A5.581,5.581,0,0,1,1092.053,4312.25Z" transform="translate(0 -0.001)" fill="none" stroke="#2d2d2d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_432" data-name="Path 432" d="M1084.147,4310.505l2.21,3.721,9.185-7.558" transform="translate(0.115 -0.001)" fill="none" stroke="#e2202b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_433" data-name="Path 433" d="M1092.053,4330.217a5.582,5.582,0,1,1-5.581-5.58A5.582,5.582,0,0,1,1092.053,4330.217Z" transform="translate(0 0.636)" fill="none" stroke="#2d2d2d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_434" data-name="Path 434" d="M1084.147,4328.474l2.21,3.721,9.185-7.558" transform="translate(0.115 0.636)" fill="none" stroke="#e2202b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_435" data-name="Path 435" d="M1110.022,4312.25a5.581,5.581,0,1,1-5.582-5.582A5.582,5.582,0,0,1,1110.022,4312.25Z" transform="translate(0.637 -0.001)" fill="none" stroke="#2d2d2d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_436" data-name="Path 436" d="M1110.022,4330.217a5.581,5.581,0,1,1-5.582-5.58A5.582,5.582,0,0,1,1110.022,4330.217Z" transform="translate(0.637 0.636)" fill="none" stroke="#2d2d2d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
